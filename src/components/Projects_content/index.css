@@ -1,0 +1,7 @@
+#prj
+{
+    margin-top: 19vh;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
